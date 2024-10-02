@@ -1,1 +1,9 @@
 Derrière trois personnages A, B et C se cachent les dieux Vrai, Faux et Aléatoire. Vrai répond toujours la vérité, Faux répond toujours le contraire de la vérité, et Aléatoire choisit ses réponses au hasard. Votre tâche est de dévoiler les identités de A, B et C en posant uniquement trois questions dont la réponse est vrai ou faux. Les dieux comprennent le français mais ils répondront à vos questions dans leur propre langue, c'est-à-dire par da et ja. Vous ne savez pas à quoi ces réponses correspondent.
+
+### précisions ###
+
+- Vous pouvez interroger un dieu plusieurs fois (et alors un dieu ne sera pas du tout questionné).
+
+- La deuxième question et à qui s'adresse celle-ci peut dépendre de la réponse à la première question. De même pour le choix de la troisième.
+
+- Aléatoire peut être considéré comme décidant ses réponses à toute question vrai-faux par un jet à pile ou face : si la pièce tombe sur face, il dira da ; si elle tombe sur pile, ja
